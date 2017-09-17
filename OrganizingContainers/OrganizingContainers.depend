@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505685579 source:c:\users\gm\desktop\githubprojects\hackerranksolutions\organizingcontainers\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
